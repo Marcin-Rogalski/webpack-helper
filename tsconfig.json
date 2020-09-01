@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		// "module": "UMD",
+		"moduleResolution": "node",
+		"target": "ES5",
+		"outDir": "lib",
+		"declaration": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules"]
+}
