@@ -7,7 +7,7 @@ Tired of looking back and forth to webpack documentation? I was too. Now You can
 Just install it as any other module:
 
 ```
-npm install --save-dev webpack-helper
+npm install --save-dev @rogalski/webpack-helper
 ```
 
 ## Usage
@@ -50,7 +50,7 @@ module.exports = function (env, argv) {
 
 Uses webpack type definitions to typecheck your code. Simply put your config inside id:
 
-![It was a screenshot but it didn't load :(](https://github.com/marcin-rogalski/webpack-helper/screenshot.jpg)
+![It was a screenshot but it didn't load :(](https://raw.githubusercontent.com/Marcin-Rogalski/webpack-helper/master/screenshot.jpg)
 
 ### _mergeConfig()_
 

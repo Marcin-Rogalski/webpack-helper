@@ -1,16 +1,29 @@
 {
-	"name": "webpack-helper",
+	"name": "@rogalski/webpack-helper",
 	"version": "1.0.0",
 	"description": "Tired of looking back and forth to webpack documentation? I was too. Now You can have typings in your webpack.config.js file!",
+	"license": "ISC",
+	"keywords": [
+		"webpack",
+		"typescript",
+		"typing",
+		"configuration"
+	],
+	"author": "Marcin Rogalski <marcinrogalski@interia.eu>",
+	"homepage": "https://github.com/Marcin-Rogalski/",
+	"bugs": {
+		"url": "https://github.com/Marcin-Rogalski/webpack-helper/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Marcin-Rogalski/webpack-helper.git"
+	},
 	"main": "lib/main.js",
 	"typings": "lib/main.d.ts",
 	"scripts": {
 		"test": "jest",
 		"build": "tsc"
 	},
-	"keywords": [],
-	"author": "Marcin Rogalski",
-	"license": "ISC",
 	"devDependencies": {
 		"@types/node": "^14.6.2",
 		"@types/source-map": "^0.5.7",
