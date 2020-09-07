@@ -48,7 +48,7 @@ module.exports = function (env, argv) {
 
 ### _createConfig()_
 
-Uses webpack type definitions to typecheck your code. Simply put your config inside id:
+Uses webpack type definitions to typecheck your code. Simply put your config inside it:
 
 ![It was a screenshot but it didn't load :(](https://raw.githubusercontent.com/Marcin-Rogalski/webpack-helper/master/screenshot.jpg)
 
