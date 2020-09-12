@@ -1,6 +1,6 @@
 {
 	"name": "@rogalski/webpack-helper",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Tired of looking back and forth to webpack documentation? I was too. Now You can have typings in your webpack.config.js file!",
 	"license": "ISC",
 	"keywords": [
